@@ -21,6 +21,8 @@ public class MainActivity extends AppCompatActivity {
         //Test Add New User
         //myManage.addNewUser("123", "name", "sur", "user", "pass");
 
+        //Delete All Sqlite
+        deleteAllSQLite();
 
     } //Main Method
 
